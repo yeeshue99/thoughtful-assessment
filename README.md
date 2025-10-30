@@ -27,7 +27,7 @@ Quick start
 
 Run the demo:
 ```sh
-python [main.py](http://_vscodecontentref_/0)
+python main.py
 ```
 
 Run the tests:
