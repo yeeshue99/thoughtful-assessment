@@ -36,7 +36,7 @@ cd thoughtful-assessment
 code .
 # or open the repository in GitHub Codespaces from the repo page
 ```
-- to open the project in codespaces, press .
+- To open the project in codespaces, press .
 
 ### Running the code
 Run the demo:
